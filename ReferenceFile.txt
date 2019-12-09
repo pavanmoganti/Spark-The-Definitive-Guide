@@ -1,3 +1,5 @@
 This File is created by Pavan to get the understanding of GITHUB
 
 Adding the changes in git remote repository to check FETCH and PULL requests from git cmd
+
+Making changes in  git remote repo first.
